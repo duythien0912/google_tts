@@ -1,0 +1,18 @@
+name: translator
+version: 0.1.4
+description: A free and unlimited Google Translate API for Dart. You can use it for translate strings and text for educational purpose.
+#author: Gabriel N. Pacheco <gabrielpacheco23@live.com>
+homepage: https://github.com/gabrielpacheco23/google-translator
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.12.0
+  audioplayers: 0.15.1
+  path_provider: ^1.6.10
+
+dev_dependencies:
+  test: any
+
+environment:
+  #sdk: "2.6.0"
+  sdk: ">=2.6.0 <3.0.0"
